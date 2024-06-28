@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chelcolasite/static/css/main.f855e6bc.css",
+    "main.js": "/chelcolasite/static/js/main.3dd677a9.js",
+    "static/js/453.1bdfba70.chunk.js": "/chelcolasite/static/js/453.1bdfba70.chunk.js",
+    "static/media/logo.svg": "/chelcolasite/static/media/logo.73a9f71afba398f45da78448d2232857.svg",
+    "index.html": "/chelcolasite/index.html",
+    "main.f855e6bc.css.map": "/chelcolasite/static/css/main.f855e6bc.css.map",
+    "main.3dd677a9.js.map": "/chelcolasite/static/js/main.3dd677a9.js.map",
+    "453.1bdfba70.chunk.js.map": "/chelcolasite/static/js/453.1bdfba70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3dd677a9.js"
+  ]
+}
